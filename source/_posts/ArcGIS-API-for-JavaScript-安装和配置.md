@@ -2,14 +2,13 @@
 title: ArcGIS API for JavaScript 安装和配置
 date: 2022-03-30 15:54:44
 categories:
-    - ArcGIS API for JavaScript基础教程
-    - ArcGIS API for JavaScript 安装和配置
+  - ArcGIS API for JavaScript基础教程 
 tags:
-    - ArcGIS
-    - API
-    - 教程
-    - 安装
-    - 配置
+  - ArcGIS
+  - API
+  - 教程
+  - 安装
+  - 配置
 ---
 
 ArcGIS API for JavaScript是将地理信息或者地理数据进行可视化表达或者地理分析处理的JS库，可用于浏览器环境和Node.js环境[^1]。要在项目中使用ArcGIS JS API，有下面几种方式。
