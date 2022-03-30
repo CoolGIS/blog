@@ -1,6 +1,7 @@
 ---
 title: 核心概念之Map和View
 date: 2022-03-30 16:15:55
+toc: true
 categories:
   - ArcGIS API for JavaScript基础教程 
 tags:
@@ -11,6 +12,8 @@ tags:
 ---
 
 **Map**是用于管理图层和底图引用的容器。**View**用于显示地图图层并处理用户交互，弹出窗口，小部件和地图位置。通俗来说，可以理解为Map负责地图数据的管理，而View负责处理地图数据的显示及地图与用户之间的交互。
+
+<!-- more -->
 
 ## Map介绍
 
