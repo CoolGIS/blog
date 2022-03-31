@@ -253,7 +253,7 @@ widgets:
     social_links:
       Github:
         icon: fab fa-github
-        url: https://github.com/ppoffice
+        url: https://github.com/CoolGIS
       掘金:
         icon: fas fa-book
         url: https://juejin.cn/user/3878732751977111
